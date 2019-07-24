@@ -5,8 +5,6 @@ public class Teste {
 		System.out.println("Olá teste");
 		int i = 10;
 		
-		i =+ 5;
-		
 		i += 10;
 		
 	}
