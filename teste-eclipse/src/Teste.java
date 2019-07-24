@@ -7,7 +7,7 @@ public class Teste {
 		
 		i =+ 5;
 		
-		i += 10;
+		i += 10;a
 		
 	}
 
